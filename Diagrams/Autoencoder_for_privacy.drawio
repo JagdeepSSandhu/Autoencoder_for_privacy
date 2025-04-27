@@ -289,6 +289,9 @@
         <mxCell id="ItcHLo57ZzNqNrVCIJxk-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Autoencoder Neural Network&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="212.5" y="70" width="365" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="ItcHLo57ZzNqNrVCIJxk-28" value="The input dimensionality is 3. The Intermediate Representation has dimensionality of 7, The output dimensionality is 3. The input and output of this neural network is the same. The depth of this neural network and number of neurons in the encoding and decoding layers can be increased based on how much compute resource is available. Working with Intermediate Representation instead of raw input data can provide privacy of sensitive input information. There is no loss of information in working with Intermediate Representation." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="760" width="760" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
