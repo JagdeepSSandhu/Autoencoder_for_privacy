@@ -286,6 +286,9 @@
         <mxCell id="ItcHLo57ZzNqNrVCIJxk-26" value="Encoder&amp;nbsp;&lt;div&gt;Layer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="640" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ItcHLo57ZzNqNrVCIJxk-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Autoencoder Neural Network&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="70" width="365" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
