@@ -277,6 +277,15 @@
         <mxCell id="ItcHLo57ZzNqNrVCIJxk-23" value="3 C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="450" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ItcHLo57ZzNqNrVCIJxk-24" value="Intermediate&lt;div&gt;Representation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ItcHLo57ZzNqNrVCIJxk-25" value="Decoder&amp;nbsp;&lt;div&gt;Layer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ItcHLo57ZzNqNrVCIJxk-26" value="Encoder&amp;nbsp;&lt;div&gt;Layer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
